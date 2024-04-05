@@ -8,6 +8,6 @@ The data used in this project is sourced from [Kaggle](https://www.kaggle.com/),
 
 ### Kaggle Datasets Used:
 
-- [Dataset 1 Name](URL_to_Dataset_1): Brief description of Dataset 1.
+- [Graduate Admission Prediction]([URL_to_Dataset_1](https://www.kaggle.com/code/mubasherbajwa/graduate-admission-prediction)): Brief description of Dataset 1.
 
 Feel free to explore these datasets on Kaggle for more details and insights.
